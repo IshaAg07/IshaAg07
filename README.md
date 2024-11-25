@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Isha Agrawal</h1>
 <h3 align="center">I have a profound fascination with data and the stories it can tell.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishaag07&label=Profile%20views&color=0e75b6&style=flat" alt="ishaag07" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishaag07" alt="ishaag07" /></a> </p>
 
 - 🔭 I’m currently Pursuing **Masters in Information Systems with a minor in Data Science**
 

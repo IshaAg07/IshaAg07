@@ -4,20 +4,22 @@
 
 - 🔭 I’m currently Pursuing **Masters in Information Systems with a minor in Data Science**
 
-- 🌱I am looking for opportunities in the following roles **Data Analyst, Data Scientist, Data Engineer, Machine Learning Engineer, Business Analyst, Cloud Engineer, Quality Assurance Engineer**
+- 🌱I am looking for opportunities in the following roles **Data Analyst, Data Scientist, Software Developer, Software Engineer, Data Engineer, Machine Learning Engineer, Business Analyst, Cloud Engineer, Quality Assurance Engineer**
 
 - 🚀**I am skilled in the following areas:**
-  1) 📈 **Data Analyst:** Python, R, Excel, Tableau, Power BI, SQL
-  2) 👩🏼‍💻 **Data Scientist:** Classification, Regression, Predictive Modeling, Clustering, Feature Engineering
-  3) 🔧 **Data Engineer:** Databricks, MongoDB, Azure Data Lake Storage (ADLS), Microsoft Azure, Data Pipelines development
-  4) 🤖 **Machine Learning Engineer:** Time-Series, Artificial Intelligence (AI), Generative AI, Responsible AI, Neural Networks
-  5) ☁️ **Cloud Engineer:** AWS, Microsoft Azure, Databricks, Azure Automation, Terraform
+  1) 💻 **Software Developer:** OOPS, C++, Java, React, CI/CD Pipelines, Cloud Native Solutions
+  2) 📈 **Data Analyst:** Python, R, Excel, Tableau, Power BI, SQL
+  3) 👩🏼‍💻 **Data Scientist:** Classification, Regression, Predictive Modeling, Clustering, Feature Engineering
+  4) 🔧 **Data Engineer:** Databricks, MongoDB, Azure Data Lake Storage (ADLS), Microsoft Azure, Data Pipelines development
+  5) 🤖 **Machine Learning Engineer:** Time-Series, Artificial Intelligence (AI), Generative AI, Responsible AI, Neural Networks
+  6) ☁️ **Cloud Engineer:** AWS, Microsoft Azure, Databricks, Azure Automation, Terraform
 
 - 🎓 **Certifications I've Earned So Far:**
-   1) 💡 Academy Accreditation - Generative AI Fundamentals (DataBricks)
-   2) 🤖 Generative AI for Everyone (DeepLearning,AI)
-   3) 📘 Andrew Ng's "What is Generative AI" Course - DeepLearning.AI
-   4)  📊 IBM Certificate of Completion in Data Analytics using Python.
+   1) 💻 AWS Certified Cloud Practitioner
+   2) 💡 Academy Accreditation - Generative AI Fundamentals (DataBricks)
+   3) 🤖 Generative AI for Everyone (DeepLearning,AI)
+   4) 📘 Andrew Ng's "What is Generative AI" Course - DeepLearning.AI
+   5) 📊 IBM Certificate of Completion in Data Analytics using Python.
 
 - 💬 Ask me anything about **Data.**
   

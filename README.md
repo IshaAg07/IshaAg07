@@ -23,7 +23,7 @@
 
 - 💬 Ask me anything about **Data.**
   
-- 📫 How to reach me **iagrawal@syr.edu**
+- 📫 How to reach me **ishaagrawal2000@gmail.com**
 
 - ⚡ Fun fact **I love to paint while sipping a coffee.**
 

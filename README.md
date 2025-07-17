@@ -2,7 +2,7 @@
 <h3 align="center">I have a profound fascination with data and the stories it can tell.</h3>
 
 
-- 🔭 I’m currently Pursuing **Masters in Information Systems with a minor in Data Science**
+- 🔭 Graduated in **Masters in Information Systems with a minor in Data Science**
 
 - 🌱I am looking for opportunities in the following roles **Data Analyst, Data Scientist, Software Developer, Software Engineer, Data Engineer, Machine Learning Engineer, Business Analyst, Cloud Engineer, Quality Assurance Engineer**
 
